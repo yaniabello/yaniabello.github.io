@@ -197,6 +197,17 @@ ul {
     text-align: center; 
   }
 
+  .processor-details,
+  .storage-details,
+  .charging-details,
+  .camera-details,
+  .display-details,
+  .size-weight-details {
+    padding-left: 0; /* Remove any left padding */
+    padding-right: 0; /* Remove any right padding */
+    text-align: center; /* Ensure details are centered */
+  }
+
   h4, h5 {
     font-size: 16px;
   }
