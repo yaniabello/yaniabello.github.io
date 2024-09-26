@@ -153,6 +153,7 @@ ul {
     align-items: center;
     text-align: center;
     width: 100%;
+    border-bottom: none; 
   }
 
   .features-boxes {
@@ -193,6 +194,7 @@ ul {
   .display-details,
   .size-weight-details {
     width: 100%;
+    text-align: center; 
   }
 
   h4, h5 {
