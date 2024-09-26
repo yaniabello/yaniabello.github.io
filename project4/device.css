@@ -202,9 +202,9 @@ ul {
   .camera-details,
   .display-details,
   .size-weight-details {
-    padding-left: 0; /* Remove any left padding */
-    padding-right: 0; /* Remove any right padding */
-    text-align: center; /* Ensure details are centered */
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
   }
 
   h4, h5 {
